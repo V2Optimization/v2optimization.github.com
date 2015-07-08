@@ -48,17 +48,17 @@ title: About V2Optimization
 
 4. Keyu Zhu*, Orrin Cooper, Shanlin Yang, __Qingxing Dong__. An Extension of the AHP Dummy Pivot Modeling Applied to the Restructuring of the Iron and Steel Industry in China[J].  **IEEE Transactions on Engineering Management**, 2013,61(2):370-380.SCI & SSCI 检索. 
 
-5. __董庆兴*__, 郭亚军, 马凤妹. 基于差异驱动的主客体协作式综合评价方法[J]. **中国管理科学**. 2012, 20(1): 171-176. CSSCI检索. 国家自然基金委认定A级期刊.
+5.  __董庆兴*__, 郭亚军, 马凤妹. 基于差异驱动的主客体协作式综合评价方法[J]. **中国管理科学**. 2012, 20(1): 171-176. CSSCI检索. 国家自然基金委认定A级期刊.
 
 6. __董庆兴*__, 郭亚军, 马凤妹. 基于主客体协作的群组评价方法[J]. **运筹与管理**.2012, 21(4):166-172. 国家自然基金委认定A级期刊.
 
-7. __董庆兴*__, 郭亚军, 何志勇. 基于竞合视角的自主式综合评价方法[J]. **系统管理学报**. 2012,21(2): 180-185. CSSCI 检索. 国家自然基金委认定A级期刊.
+7.  __董庆兴*__, 郭亚军, 何志勇. 基于竞合视角的自主式综合评价方法[J]. **系统管理学报**. 2012,21(2): 180-185. CSSCI 检索. 国家自然基金委认定A级期刊.
 
-8. __董庆兴*__, 郭亚军, 单翔. 基于双重差异驱动的群体评价方法[J]. **系统管理学报**.2014,23(3):451-454. CSSCI 检索. 国家自然基金委认定A级期刊.
+8.  __董庆兴*__, 郭亚军, 单翔. 基于双重差异驱动的群体评价方法[J]. **系统管理学报**.2014,23(3):451-454. CSSCI 检索. 国家自然基金委认定A级期刊.
 
-9. 朱克毓，__董庆兴*__, 梁昌勇, 杨善林. 一类三角模糊层次分析法的无效性分析[J]. **系统工程理论与实践**.已录用. EI A类检索期刊，CSSCI 检索. 国家自然基金委认定A级期刊.
+9.  朱克毓，__董庆兴*__, 梁昌勇, 杨善林. 一类三角模糊层次分析法的无效性分析[J]. **系统工程理论与实践**.已录用. EI A类检索期刊，CSSCI 检索. 国家自然基金委认定A级期刊.
 
-10. 马凤妹*, 郭亚军, __董庆兴__. 无量纲化方法对拉开档次法的影响分析[J]. **管理科学学报**.2011, 14(5): 19-28. CSSCI 检索. 国家自然基金委认定A级期刊.
+10.  马凤妹*, 郭亚军, __董庆兴__. 无量纲化方法对拉开档次法的影响分析[J]. **管理科学学报**.2011, 14(5): 19-28. CSSCI 检索. 国家自然基金委认定A级期刊.
 
-11. __Qingxing Dong*__, Yajun Guo, Zhiyong He. Method of dynamic multi-criteria decisionmaking based on integration of absolute and relative differences[C]. Proceedings of the 2ndIEEE International Conference on Advanced Computer Control.2010/03. EI&ISTP 检索.
+11.  __Qingxing Dong*__, Yajun Guo, Zhiyong He. Method of dynamic multi-criteria decisionmaking based on integration of absolute and relative differences[C]. Proceedings of the 2ndIEEE International Conference on Advanced Computer Control.2010/03. EI&ISTP 检索.
 
