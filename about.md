@@ -9,7 +9,6 @@ title: About V2Optimization
 ## 联系方式
 
 * Email：qxdong@mail.ccnu.edu.cn
-* qq群：291836347
 * 办公室：9号楼925房间
 * Office hour： 每周四 18：00 - 20：00
 
